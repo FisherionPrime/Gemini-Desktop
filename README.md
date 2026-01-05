@@ -4,7 +4,6 @@ Une application de bureau native pour Google Gemini, construite avec **Electron*
 Conçue pour offrir une expérience immersive, sans bordures ("frameless") et parfaitement intégrée à Windows.
 
 ![Gemini Desktop Preview](screenshot.jpg)
-*(N'oublie pas d'ajouter une image nommée screenshot.png dans ton dossier pour qu'elle s'affiche ici !)*
 
 ## 🚀 Fonctionnalités
 
